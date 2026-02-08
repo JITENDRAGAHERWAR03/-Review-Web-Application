@@ -112,5 +112,5 @@ Frontend & Python Full-Stack Developer
 📌 Passionate about building practical web & AI projects
 
 ⭐ If you like this project, don’t forget to star the repository!
-
+---
 
